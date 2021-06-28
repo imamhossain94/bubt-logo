@@ -1,0 +1,6 @@
+1. copy then past graphic.h & winbgi in include folder [Shown in include.png]
+2. copy then past libbgi.a in lib folder [shown in lin.png]
+
+//**************** Open Code::Blocks *********************//
+
+1. Follow screenshots
